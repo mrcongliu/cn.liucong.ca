@@ -1,1 +1,1 @@
-Sitemap: https://congliu-cn.github.io/cn.liucong.ca/sitemap.xml
+Sitemap: https://cn.liucong.ca/sitemap.xml
