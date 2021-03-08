@@ -6,7 +6,7 @@
 
 https://cn.liucong.ca/
 
-# My Blog
+# 我的博客
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
