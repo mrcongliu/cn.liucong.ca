@@ -120,4 +120,4 @@ kramdown:
 feed:
   posts_limit: 5 #default posts_limit: 10
   excerpt_only: true
-  url: "https://feedrabbit.com/?url=https://www.congliu.ca/"
+  url: "https://www.congliu.ca"
