@@ -1,5 +1,5 @@
 ---
-title:无聊的日子 
+title: 无聊的日子 
 description: "北京没有了一丝烟火气，我想逃。"
 layout: post
 toc: false
