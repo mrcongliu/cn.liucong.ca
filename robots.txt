@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /cn.liucong.ca/sitemap.xml
